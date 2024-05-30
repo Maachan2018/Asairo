@@ -1,0 +1,306 @@
+--------------------------------------------------------
+text-001
+
+Help
+
+--------------------------------------------------------
+text-1
+
+My new student life will start at the Yumemidori Academy.
+
+--------------------------------------------------------
+text-002
+
+Sasa.
+
+--------------------------------------------------------
+text-02
+
+"......So, {\i1}wither.{\i0}"
+
+--------------------------------------------------------
+text-03
+
+"Friends"
+
+--------------------------------------------------------
+text-04
+
+Kotodama.
+
+--------------------------------------------------------
+text-05
+
+This land restricts red leaves from attaching.
+
+--------------------------------------------------------
+text-05a
+
+{\i1}Brought{\i0} red leaves immediately cease from being artificial.
+
+--------------------------------------------------------
+text-05b
+
+"Red leaves" breathe in this land as "red leaves."
+
+--------------------------------------------------------
+text-06
+
+Liar.
+
+--------------------------------------------------------
+text-06a
+
+Liar.
+
+--------------------------------------------------------
+text-07
+
+FORGET IT.
+
+--------------------------------------------------------
+text-08
+
+"No...I can't help it."
+
+--------------------------------------------------------
+text-08a
+
+"No...I can't help it."
+
+--------------------------------------------------------
+text-09
+
+STOP IT!!
+
+--------------------------------------------------------
+text-10
+
+{\i1}Was lying to herself.{\i0}
+
+--------------------------------------------------------
+text-11
+
+I like you.
+
+--------------------------------------------------------
+text-12
+
+Then...
+
+--------------------------------------------------------
+text-12a
+
+Then...
+let's talk about an unnecessary story.
+
+--------------------------------------------------------
+text-12b
+
+This story is already complete.
+
+--------------------------------------------------------
+text-12c
+
+{\i1}What had to be told{\i0} has already been told.
+
+--------------------------------------------------------
+text-12d
+
+So, this is...
+
+--------------------------------------------------------
+text-12e
+
+...nothing more than unnecessary.
+
+--------------------------------------------------------
+text-13
+
+O, Gods of medicine.
+
+--------------------------------------------------------
+text-13a
+
+O, Gods of medicine.
+I swear by Apollo Physician, by Asclepius, by Hygieia, by Panacea, and by all the gods and goddesses,
+
+--------------------------------------------------------
+text-13b
+
+O, Gods of medicine.
+I swear by Apollo Physician, by Asclepius, by Hygieia, by Panacea, and by all the gods and goddesses,
+making them my witnesses, that I will carry out, according to my ability and judgment, this oath and this indenture.
+
+--------------------------------------------------------
+text-14
+
+"Momiji"
+
+--------------------------------------------------------
+text-16
+
+......ave.
+
+--------------------------------------------------------
+text-16a
+
+I wa......ave.
+
+--------------------------------------------------------
+text-16b
+
+I want to save.
+
+--------------------------------------------------------
+text-17
+
+...All right.
+
+--------------------------------------------------------
+text-18
+
+The more I remember, the more odious.
+
+--------------------------------------------------------
+text-18a
+
+But lovable.
+
+--------------------------------------------------------
+text-18b
+
+The scenery that day was so beautiful.
+
+--------------------------------------------------------
+text-19
+
+..............................not.
+
+--------------------------------------------------------
+text-19a
+
+...............must not.
+
+--------------------------------------------------------
+text-19b
+
+You must not grant the "Crying Devil's" wish.
+
+--------------------------------------------------------
+text-19c
+
+By withering, the leaves are ending the devil's kotodama.
+
+--------------------------------------------------------
+text-19d
+
+...If...
+
+--------------------------------------------------------
+text-19e
+
+...If you do grant it...
+
+--------------------------------------------------------
+text-19f
+
+{\i1}Cruel words{\i0} will overflow from the trees.
+
+--------------------------------------------------------
+text-20
+
+It appears this story wasn't unnecessary.
+
+--------------------------------------------------------
+text-21
+
+It is a story worthy of being told.
+
+--------------------------------------------------------
+text-22
+
+To them, who accomplished an unnecessary story worthy of telling...
+
+--------------------------------------------------------
+text-22a
+
+To them, who accomplished an unnecessary story worthy of telling...
+a toast.
+
+--------------------------------------------------------
+text-23
+
+...In this Yumemidori Academy colored with Momiji.
+
+--------------------------------------------------------
+text-24
+
+"Someday, I want to turn this scenery into a painting."
+
+--------------------------------------------------------
+text-24a
+
+Words spoken so naturally, as if those words were part of the landscape itself.
+
+--------------------------------------------------------
+text-24b
+
+"I want to give it shape."
+
+--------------------------------------------------------
+text-24c
+
+That day was the first time I put my wish into words.
+
+--------------------------------------------------------
+text-24d
+
+I didn't want someone to grant it for me. It was the first time I "wanted to grant" the wish with my own hands.
+
+--------------------------------------------------------
+text-24e
+
+With my own hands, I wanted to give shape to that scenery, where everyone who granted me my wish was.
+
+--------------------------------------------------------
+text-25
+
+Just to paint is great fun.
+
+--------------------------------------------------------
+text-25a
+
+Try it if you have not done so.
+
+--------------------------------------------------------
+text-25b
+
+For there's no good nor bad in painting.
+
+--------------------------------------------------------
+text-26
+
+All the great things are simple,
+
+--------------------------------------------------------
+text-26a
+
+and many can be expressed in a single word.
+
+--------------------------------------------------------
+text-27
+
+Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it Stop it
+
+--------------------------------------------------------
+text-28a	can leave it as it is
+--------------------------------------------------------
+text-28b	can leave it as it is
+--------------------------------------------------------
+text-28c	can leave it as it is
+--------------------------------------------------------
+text-28d	can leave it as it is
+--------------------------------------------------------
+text-28e	can leave it as it is
+--------------------------------------------------------
