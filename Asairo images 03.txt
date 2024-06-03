@@ -1,0 +1,43 @@
+------------------------------------------
+spi.zip
+1-1	these are the letters from the sentence below
+1-2	each .bmp is one letter/character
+1-3
+1-4
+1-5
+1-6
+
+Impatient bystander
+
+------------------------------------------
+spi.zip
+2-1	these are the letters from the sentence below
+2-2	each .bmp is one letter/character
+2-3
+2-4
+2-5
+2-6
+2-7
+
+Flustered savior
+
+------------------------------------------
+spi.zip
+3-1	these are the letters from the sentence below
+3-2	each .bmp is one letter/character
+3-3
+3-4
+3-5
+3-6
+3-7
+
+Suspended Sympathizer
+
+------------------------------------------
+txt.zip		these are the letters from the sentence below.
+		each .bmp is one letter/character
+
+"{\i1}Its{\i0} shape is different for each person."
+I wonder when it was that I started thinking this.
+
+------------------------------------------
