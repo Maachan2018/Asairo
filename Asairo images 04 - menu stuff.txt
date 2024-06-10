@@ -1,0 +1,465 @@
+---------------------------------------------------
+00config
+
+Config
+
+---------------------------------------------------
+00exit
+
+Exit
+
+---------------------------------------------------
+00extra
+
+Extra
+
+---------------------------------------------------
+00load
+
+Load
+
+---------------------------------------------------
+00start
+
+Start
+
+---------------------------------------------------
+00start01
+
+Surely, More Than Even The Clear Morning Color,
+
+---------------------------------------------------
+00start02
+
+With you, here and now,
+
+---------------------------------------------------
+00start03
+
+With as many bonds as the number of encounters,
+
+---------------------------------------------------
+00start04
+
+This hand is connected.
+
+---------------------------------------------------
+01auto		<< thse are just icons
+01close
+01cursor
+01lback
+01load
+01voice
+
+---------------------------------------------------
+03aq
+
+Auto
+
+---------------------------------------------------
+03load
+
+Load
+
+---------------------------------------------------
+03loadbz
+(from the left)
+
+Load	1 2 3 4 5 6 7 8 9 10	Auto
+
+---------------------------------------------------
+03new
+
+New
+
+---------------------------------------------------
+03p01	<< these ones are just the numbers on the folders. this is 1, the below is 2, and so on
+03p02
+03p03
+03p04
+03p05
+03p06
+03p07
+03p08
+03p09
+03p10
+
+---------------------------------------------------
+03return
+
+Return
+
+---------------------------------------------------
+03save
+
+Save
+
+---------------------------------------------------
+03savebg
+(from the left)
+
+Save	1 2 3 4 5 6 7 8 9 10	Auto
+
+---------------------------------------------------
+03tag		<< no text here
+05base
+05close
+
+---------------------------------------------------
+05config
+
+Config
+
+---------------------------------------------------
+05exit
+
+Exit
+
+---------------------------------------------------
+05jump
+
+Skip
+
+---------------------------------------------------
+05load
+
+Load
+
+---------------------------------------------------
+05save
+
+Save
+
+---------------------------------------------------
+05sceneback
+
+Return
+
+---------------------------------------------------
+05title
+
+Title
+
+---------------------------------------------------
+06jump
+
+Skip to the next unread line?
+
+---------------------------------------------------
+06load
+
+Load the quick save file?
+
+---------------------------------------------------
+06no
+
+No
+
+---------------------------------------------------
+06quit
+
+Exit the game?
+
+---------------------------------------------------
+06save
+
+Overwrite the saved data?
+
+---------------------------------------------------
+06scene
+
+Return to scene viewer?
+
+---------------------------------------------------
+06title
+
+Return to the title screen?
+
+---------------------------------------------------
+06yes
+
+Yes
+
+---------------------------------------------------
+07all
+
+General
+
+---------------------------------------------------
+07allback
+
+Screen Size
+	Full Screen
+	Windowed
+
+Screen Effects
+
+Message Window Transparency
+
+When Inactive...
+	Run	Pause
+
+Right-Click Function
+
+Middle-Click Function
+
+Stop voice playback when clicking
+	Yes	No
+
+Place outline border on text
+	Yes	No
+
+---------------------------------------------------
+07button	<< just icons
+
+---------------------------------------------------
+07conf
+
+Confirm
+
+---------------------------------------------------
+07efflist	(not sure where these show up in-game)
+
+0000.bmp	<< High
+0001.bmp	<< High
+0002.bmp	<< Medium
+0003.bmp	<< Medium
+0004.bmp	<< Low
+0005.bmp	<< Low
+
+---------------------------------------------------
+07efflist01
+
+High
+
+---------------------------------------------------
+07efflist02
+
+Medium
+
+---------------------------------------------------
+07efflist03
+
+Low
+
+---------------------------------------------------
+07no
+
+Cancel
+
+---------------------------------------------------
+07ok
+
+Ok
+
+---------------------------------------------------
+07pullback	<< just image
+
+---------------------------------------------------
+07right		(not sure where these show up in-game)
+
+0000.bmp	<< Display Menu
+0001.bmp	<< Display Menu
+0002.bmp	<< Hide Window
+0003.bmp	<< Hide Window
+0004.bmp	<< Skip
+0005.bmp	<< Skip
+
+---------------------------------------------------
+07right01
+
+Display Menu
+
+---------------------------------------------------
+07right02
+
+Hide Window
+
+---------------------------------------------------
+07right03
+
+Skip
+
+---------------------------------------------------
+07sound
+
+Sound
+
+---------------------------------------------------
+07soundback
+
+Master Volume
+	Min		Max
+
+Voice
+	Min		Max
+	
+SE
+	Min		Max
+	
+BGM
+	Min		Max
+
+Individual Character Voices
+	Min		Max
+
+---------------------------------------------------
+07text
+
+Text
+
+---------------------------------------------------
+07textback
+
+Text Display Speed
+	Slow		Fast
+
+Auto-Play Speed
+	Speed Per Letter
+		Slow		Fast
+	Speed Per Line
+
+Font
+
+Skip
+	Unread Only
+	Skip All Lines
+
+Skip Mode During Choices
+	Keep Skip Mode After Choices
+	Pause Skip Mode After Choices
+
+Skip With Left-Click
+	Only While Pressed
+	Never
+
+Color Of Already-Read Text
+	Change
+	Do not Change
+
+---------------------------------------------------
+07thu01		<< Thumbnails of the characters. Suu Sasamaru here.
+07thu02		Kumigami Hiyo
+07thu03		Yumeno Araragi
+07thu04		Kashi Harutsuge
+07thu05		Waka
+07thu06		Aone
+07thu07		Aomai
+07thu08		Onitake-sensei
+07thu09		Jin Reiji
+07thu10		Nakarai Nobuo
+07thu11		Males
+07thu12		Females
+07thu13		Others
+
+---------------------------------------------------
+08base		<< backgrounds
+08choice
+
+---------------------------------------------------
+08exit
+
+Exit
+
+---------------------------------------------------
+08graphic
+
+CGs
+
+---------------------------------------------------
+08memories
+
+Scenes
+
+---------------------------------------------------
+08music
+
+Music
+
+---------------------------------------------------
+09bg
+
+CGs
+
+---------------------------------------------------
+09cbg		<< background
+09cgbase
+
+---------------------------------------------------
+09p01	<< numbers again. this is 1, the below is 2, and so on
+09p02
+09p03
+09p04
+09p05
+09p06
+09p07
+09p08
+09p09
+09p10
+09p11
+09p12
+09p13
+09p14
+09p15
+
+---------------------------------------------------
+09scrollh	<< background
+09scrollv
+
+---------------------------------------------------
+10bg
+
+Scenes
+
+---------------------------------------------------
+10return
+
+Return
+
+---------------------------------------------------
+10thum00	<< images without text
+11back
+
+---------------------------------------------------
+11bg
+
+Music
+
+---------------------------------------------------
+11bgm01		01 Momiji
+11bgm02		02 Kumigami Hiyo
+11bgm03		03 Yumeno Araragi
+11bgm04		04 Kashi Harutsuge
+11bgm05		05 Waka
+11bgm06		06 Blue Sisters
+11bgm07		07 To The Gardens of the Yumemidori			夢見鳥の舞う園へ
+11bgm08		08 Journey to the Wished				憧憬への道程
+11bgm09		09 Cradle of Learning					学びの揺り籠
+11bgm10		10 Fesvival of Living Colors				生ある彩の祭
+11bgm11		11 Embrace that Faint Mental Picture			淡き心象を抱き締めて 
+11bgm12		12 Darkness Stretches Its Hand				暗がりは手を伸ばす
+11bgm13		13 Time's Guidance and World's Call			時の導きと世の誘い
+11bgm14		14 Painting an Old Passion				古き熱を塗りこめし
+11bgm15		15 Smiles Never Change					いつの世も笑顔だけは変わらず
+11bgm16		16 Is It The Weight of History or Karma?		重きは歴史か人の業か
+11bgm17		17 Dear Place Where One Belongs				愛すべき居場所
+11bgm18		18 Moment for Deep Breaths				深呼吸の時間
+11bgm19		19 Suddenly, Flower Gardens				お花畑は唐突に
+11bgm20		20 Smiling Is More Than Enough				笑い合えればただそれで
+11bgm21		21 Hidden, Dancing, Blurring				潜み、躍り、滲む
+11bgm22		22 Explode in Silence					静寂に爆ぜよ
+11bgm23		23 Engrave Your Roar For All Eternity			永久に咆哮を刻み込め
+11bgm24		24 Gently, Slowly, Noisily				ふわり、ゆるり、くしゃり
+11bgm25		25 Just Cry Like a Little Kid (right)			子供のように泣けばいい（右）
+11bgm26		26 Just Cry Like a Little Kid (left)			子供のように泣けばいい（左）
+11bgm27		27 Sweethearts Back-To-Back				背中合わせの恋心
+11bgm28		28 Were it a Love Less Clumsy...			もっと器用な愛情なら
+11bgm29		29 Their Bonds Are The "Four Noble Ones"		絆の名は『四君子』
+11bgm30		30 Moon Surfacing on The Palm				掌に浮かぶ月
+11bgm31		31 More Than Enough of the Pure and Clear Crimson	あきらかなあかにあきみちる
+11bgm32		32 Do Not Let Go Of This Hand				どうかこの手を離さないで
+11bgm33		33 Forest's Sleep					森の眠り
+11bgm34		34 Childish Game of "Tag"				児戯たる“鬼ごっこ”
+11bgm35		35 Destination of a Fluttering Leaf			風にそよぐ葉の行方は
+11bgm36		36 Wisteria Curtain, Song of Night			藤の帳と夜の歌
+11bgm37		37 Color of the Feelings Painting the Tomorrow		明日を描く想いの色
