@@ -26,7 +26,7 @@ Start
 ---------------------------------------------------
 00start01
 
-Surely, More Than Even The Clear Morning Color,
+Clearer Than The Morning Color,
 
 ---------------------------------------------------
 00start02
@@ -36,12 +36,12 @@ With you, here and now,
 ---------------------------------------------------
 00start03
 
-With as many bonds as the number of encounters,
+Through all the bonds we built,
 
 ---------------------------------------------------
 00start04
 
-This hand is connected.
+Our hands are connected.
 
 ---------------------------------------------------
 01auto		<< thse are just icons
